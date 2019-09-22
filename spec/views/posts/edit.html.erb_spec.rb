@@ -13,6 +13,6 @@ require 'rails_helper'
   #  assert_select "form[action=?][method=?]", post_path(@post), "post" do
 
   #    assert_select "input#post_title[name=?]", "post[title]"
-    end
+ #   end
 #  end
-end
+#end
