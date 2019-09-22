@@ -15,4 +15,4 @@ require 'rails_helper'
 #      assert_select "input#post_title[name=?]", "post[title]"
 #    end
 #  end
-end
+#end
